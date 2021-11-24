@@ -1,5 +1,7 @@
 # Yapım Süreci
 - Birkaç saat içinde istek üzerine yapmış olduğum roleplay moderasyon altyapısıdır. Kendimi pek iyi hissetmediğimden çok odaklanamadım.
+# Kurulum
+- config.js dosyasında gerekli yerleri doldurmanız yeterlidir.
 # Eksik Komutlar
 - Eksik komutlar var açıkcası onlarla uğraşmak istemedim fakat eksik komutu yaparken örnek alabileceğiniz en az bir komut ekledim. Onlardan esinlenerek eksik komutları kendiniz yapabilirsiniz.
 # Hata Buldum
